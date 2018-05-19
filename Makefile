@@ -10,9 +10,6 @@ endif
 run: 
 	jupyter-notebook
 
-run2:
-	@"jupyter-notebook"
-
 all: jupyter_extend
 
 venv:
